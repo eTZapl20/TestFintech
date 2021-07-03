@@ -2,7 +2,7 @@
 ## Simple HTML & JavaScript to test sessionStorage
 ### Files used in test:
 1. index.html - with button click to call function in script.js to save data to sessionStorage & link to change to page2.html
-2. page2.html - wiht button click to call function in script2.jst to get data from sessionStrorage to display in HTML and link to change back to index.html
+2. page2.html - with button click to call function in script2.jst to get data from sessionStrorage to display in HTML and link to change back to index.html
 3. script.js - function to save data to sessionStorage
 4. script2.js - function to get data from sessionStorage and display in HTML
 ### Test Steps:
