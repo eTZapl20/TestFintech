@@ -1,5 +1,6 @@
 # TestFintech Repository
 ## Simple HTML & JavaScript to test sessionStorage
+https://www.w3schools.com/jsref/prop_win_sessionstorage.asp
 ### Files used in test:
 1. index.html - with button click to call function in script.js to save data to sessionStorage & link to change to page2.html
 2. page2.html - with button click to call function in script2.jst to get data from sessionStrorage to display in HTML and link to change back to index.html
